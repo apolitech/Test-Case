@@ -1,6 +1,6 @@
                                                          APP
                                                           |
-                                             Test old or non stable version *
+                                             Test old or alpha/beta version *
                                             /                            \
                                          Frontend                       Backend
                                         /                                   \
